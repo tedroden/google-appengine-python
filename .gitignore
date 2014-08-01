@@ -1,0 +1,7 @@
+#Ignore sources
+*.zip
+# Ignore generated files
+/pkg
+/src
+*.pkg.tar.xz
+*.src.tar.gz
